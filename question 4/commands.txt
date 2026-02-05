@@ -1,0 +1,10 @@
+1. nano emailcleaner.sh
+2. chmod +x emailcleaner.sh
+3. cat > emails.txt
+4. cat emails.txt
+5. ./emailcleaner.sh
+6. cat valid.txt
+7. cat invalid.txt
+8. # Test with empty file
+9. > empty.txt
+10. ./emailcleaner.sh empty.txt

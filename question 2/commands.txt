@@ -1,0 +1,4 @@
+1. chmod +x analyze_log.sh
+2. ./analyze_log.sh app.log
+3. cat logsummary_2025-01-15.txt
+4. ./analyze_log.sh missing.log

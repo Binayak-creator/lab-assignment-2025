@@ -1,0 +1,4 @@
+1. Made script runnable
+2. Ran on log file, made report, showed counts: total=4, INFO=1, WARNING=1, ERROR=2, last error was "Network timeout"
+3. Checked report file contents - same as screen output
+4. Tried missing file, got error message

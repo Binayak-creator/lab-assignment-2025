@@ -1,0 +1,8 @@
+@nouser.com
+bad@.com
+invalid-email
+no-at-sign.com
+user@company.com
+123@456.com
+user@domain.org
+john123@gmail.com  # duplicate line

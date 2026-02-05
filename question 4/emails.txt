@@ -1,0 +1,13 @@
+john123@gmail.com
+sarah@yahoo.com
+test@test.com
+invalid-email
+user@company.com
+123@456.com
+no-at-sign.com
+double@double.com
+john123@gmail.com  # duplicate
+hello@world.com
+bad@.com
+@nouser.com
+user@domain.org  # .org not .com

@@ -1,0 +1,8 @@
+1. chmod +x analyze.sh
+2. echo "hello world" > testfile.txt
+3. mkdir testdir
+4. touch testdir/a.txt testdir/b.txt testdir/c.jpg
+5. ./analyze.sh testfile.txt
+6. ./analyze.sh testdir
+7. ./analyze.sh nothere
+8. ./analyze.sh

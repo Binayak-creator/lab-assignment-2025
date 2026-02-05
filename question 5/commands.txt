@@ -1,0 +1,11 @@
+1. mkdir dirA dirB
+2. # Create test files (commands above)
+3. nano sync.sh
+4. chmod +x sync.sh
+5. ./sync.sh dirA dirB
+6. # Test with different content
+7. echo "Changed content" > dirA/file1.txt
+8. ./sync.sh dirA dirB
+9. # Test error cases
+10. ./sync.sh dirA
+11. ./sync.sh dirA notexist

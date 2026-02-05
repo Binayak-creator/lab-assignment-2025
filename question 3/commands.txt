@@ -1,0 +1,7 @@
+1. nano validate_results.sh
+2. chmod +x validate_results.sh
+3. cat > marks.txt
+4. ./validate_results.sh
+5. # Test edge case
+6. echo "107,Tom,32,33,34" >> marks.txt
+7. ./validate_results.sh
